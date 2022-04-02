@@ -1,0 +1,23 @@
+{
+  "name": "unrealengine-blueprint-api-cn",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "unrealengine",
+    "blueprint",
+    "api",
+    "cn"
+  ],
+  "author": "domnli",
+  "license": "ISC",
+  "devDependencies": {
+    "@vuepress/plugin-register-components": "^2.0.0-beta.37",
+    "vuepress": "^2.0.0-beta.37"
+  }
+}
