@@ -4,7 +4,7 @@
 
 参数是场景组件（Scene Component）
 
-![GetWorldLocation](/images/get-world-location.png)
+![GetWorldLocation](/images/get-world-location.png =265x127)
 
 ## 输入
 | 引脚 | 参数 | 类型 | 描述 |
