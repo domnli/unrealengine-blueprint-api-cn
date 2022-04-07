@@ -2,7 +2,7 @@
 
 在场景中寻找拥有指定标签的所有 Actor，此操作速度较慢，请谨慎使用，不建议每帧使用
 
-目标是 Gameplay Static
+目标是 [Gameplay Statics](https://docs.unrealengine.com/4.26/en-US/API/Runtime/Engine/Kismet/UGameplayStatics/)
 
 ![get-all-actors-with-tag.png](/images/get-all-actors-with-tag.png =265x)
 
@@ -20,6 +20,5 @@
 | <IconArray color="#00a8f4"/> | Out Actors | Actor 的对象引用数组 | 定义了指定标签的 Actor 数组对象引用 |
 
 
-### 参考
-
+参考  
 [官方文档](https://docs.unrealengine.com/4.27/en-US/BlueprintAPI/Utilities/GetAllActorswithTag/)
