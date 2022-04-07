@@ -3,7 +3,7 @@
 碰撞
 
 
-### 节点  
+### 操作  
 | 名称 | 描述 |
 |--|--|
 | [LineTraceByChannel](./line-trace-by-channel.md) |  |
