@@ -2,16 +2,16 @@
 
 返回场景组件在世界中的坐标
 
-参数是场景组件（Scene Component）
+目标是场景组件（Scene Component）
 
-![GetWorldLocation](/images/get-world-location.png =265x127)
+![GetWorldLocation](/images/utilities/transformation/get-world-location.png =265x127)
 
 ## 输入
 | 引脚 | 参数 | 类型 | 描述 |
 | -- | -- | -- | -- |
-| <Pin color="#00a8f4"/> | Target | 场景组件的对象引用 |  |
+| <IconPin color="#00a8f4"/> | Target | SceneComponent、ObjectReference | 场景组件、对象引用 |
 
 ## 输出
 | 引脚 | 参数 | 类型 | 描述 |
 | -- | -- | -- | -- |
-| <Pin color="#fac426"/> | Return Value | Vector 向量 | 返回场景组件在世界中的坐标 |
+| <IconPin color="#fac426"/> | Return Value | Vector 向量 | 返回场景组件在世界中的坐标 |
