@@ -4,7 +4,7 @@ Get the right (Y) unit direction vector from this component, in world space.
 
 目标是场景组件（Scene Component）
 
-![GetWorldLocation](/images/utilities/transformation/get-right-vector.png =265x127)
+![GetWorldLocation](./images/get-right-vector.png =265x127)
 
 ## 输入
 | 引脚 | 参数 | 类型 | 描述 |

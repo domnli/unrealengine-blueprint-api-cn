@@ -4,7 +4,7 @@
 
 目标是场景组件（Scene Component）
 
-![GetWorldLocation](/images/utilities/transformation/get-world-location.png =265x127)
+![GetWorldLocation](./images/get-world-location.png =265x127)
 
 ## 输入
 | 引脚 | 参数 | 类型 | 描述 |

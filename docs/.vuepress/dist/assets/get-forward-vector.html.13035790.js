@@ -1,0 +1,1 @@
+const t={key:"v-02c8840f",path:"/utilities/transformation/get-forward-vector.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:164940899e4,contributors:[{name:"domnli",email:"dml8880596@gmail.com",commits:1}]},filePathRelative:"utilities/transformation/get-forward-vector.md"};export{t as data};

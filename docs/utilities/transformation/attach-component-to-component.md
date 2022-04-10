@@ -4,7 +4,7 @@
 
 目标是场景组件
 
-![AttachComponentToComponent](/images/utilities/transformation/attach-component-to-component.png =470x) 
+![AttachComponentToComponent](./images/attach-component-to-component.png =470x) 
 
 ## 输入
 | 引脚 | 参数 | 类型 | 描述 |

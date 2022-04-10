@@ -24,7 +24,7 @@ export default{
     width: 16px;
 }
 .icon_variable:after {
-    background-image: url(/images/bp_api_var_overlay.png);
+    background-image: url(./images/bp_api_var_overlay.png);
     background-position: center center;
     background-repeat: no-repeat;
     content: " ";

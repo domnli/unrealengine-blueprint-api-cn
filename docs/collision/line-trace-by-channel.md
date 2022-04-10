@@ -4,7 +4,7 @@ Does a collision trace along the given line and returns the first blocking hit e
 
 Target is Kismet System Library
 
-![line-trace-by-channel](/images/line-trace-by-channel.png =495x)
+![line-trace-by-channel](./images/line-trace-by-channel.png =495x)
 
 
 参考  

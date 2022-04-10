@@ -6,7 +6,7 @@ Performs a collision query under the mouse cursor, looking on a trace channel
 Target is Player Controller
 目标是玩家控制器
 
-![get-hit-result-under-cursor-by-channel](/images/get-hit-result-under-cursor-by-channel.png =465x)
+![get-hit-result-under-cursor-by-channel](./images/get-hit-result-under-cursor-by-channel.png =465x)
 
 ### 输入
 | 引脚 | 参数 | 类型 | 描述 |

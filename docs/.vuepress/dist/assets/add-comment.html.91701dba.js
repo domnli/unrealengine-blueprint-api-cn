@@ -1,0 +1,1 @@
+const t={key:"v-1499d07f",path:"/add-comment.html",title:"AddComment",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:164899609e4,contributors:[{name:"domnli",email:"dml8880596@gmail.com",commits:1}]},filePathRelative:"add-comment.md"};export{t as data};

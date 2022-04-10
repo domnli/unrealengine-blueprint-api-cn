@@ -4,7 +4,7 @@
 
 目标是 [Gameplay Statics](https://docs.unrealengine.com/4.26/en-US/API/Runtime/Engine/Kismet/UGameplayStatics/)
 
-![get-all-actors-with-tag.png](/images/get-all-actors-with-tag.png =265x)
+![get-all-actors-with-tag.png](./images/get-all-actors-with-tag.png =265x)
 
 ### 输入
 | 引脚 | 参数 | 类型 | 描述 |

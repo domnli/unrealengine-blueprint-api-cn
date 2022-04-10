@@ -4,7 +4,7 @@
 
 目标是 Kismet Math Library
 
-![get-unit-direction](/images/get-unit-direction.png =335x)
+![get-unit-direction](./images/get-unit-direction.png =335x)
 
 ## 输入
 | 引脚 | 参数 | 类型 | 描述 |
