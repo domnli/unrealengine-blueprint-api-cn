@@ -4,7 +4,7 @@ Rotate the world right vector by the given rotation
 
 Target is Kismet Math Library
 
-![get-right-vector](/images/math/vector/get-right-vector.png = 265x)
+![get-right-vector](/images/math/vector/get-right-vector.png =265x)
 
 ## 输入
 | 引脚 | 参数 | 类型 | 描述 |

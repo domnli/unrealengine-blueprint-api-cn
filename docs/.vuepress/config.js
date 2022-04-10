@@ -1,6 +1,7 @@
 const { path } = require('@vuepress/utils')
 
 module.exports = {
+    base:'/unreal-buleprint-api/',
     themeConfig:{
         sidebarDepth:0,
         sidebar:[{
