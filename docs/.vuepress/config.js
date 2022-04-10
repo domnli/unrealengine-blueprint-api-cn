@@ -1,7 +1,7 @@
 const { path } = require('@vuepress/utils')
 
 module.exports = {
-    base:'/unreal-buleprint-api/',
+    base:'/unrealengine-blueprint-api-cn/',
     themeConfig:{
         sidebarDepth:0,
         sidebar:[{
