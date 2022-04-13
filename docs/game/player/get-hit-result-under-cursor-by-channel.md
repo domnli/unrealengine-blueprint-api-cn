@@ -1,7 +1,6 @@
 # GetHitResultUnderCursorbyChannel  
 
-Performs a collision query under the mouse cursor, looking on a trace channel
-以玩家所在位置为起点，鼠标光标位置为终点的路径进行碰撞检测，检测并返回路径上指定了 [Trace Channel](https://docs.unrealengine.com/4.27/zh-CN/TestingAndOptimization/PerformanceAndProfiling/UnrealInsights/Reference/Trace/) 的 Actor
+在鼠标光标位置进行碰撞检测，返回该位置是否有指定了 [Trace Channel](https://docs.unrealengine.com/4.27/zh-CN/TestingAndOptimization/PerformanceAndProfiling/UnrealInsights/Reference/Trace/) 的 Actor
 
 Target is Player Controller
 目标是玩家控制器

@@ -1,7 +1,7 @@
 # GetHitResultUnderCursorforObjects
 
 Performs a collision query under the mouse cursor, looking for object types
-以玩家当前位置为起点，鼠标光标所在位置为终点的路径进行碰撞检测，检测路径上是否存在给定的对象类型的 Actor
+在鼠标光标所在位置进行碰撞检测，检测是否存在给定的对象类型的 Actor
 
 Target is Player Controller
 目标是玩家控制器
