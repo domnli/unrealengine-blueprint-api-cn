@@ -2,8 +2,7 @@
 
 在鼠标光标位置进行碰撞检测，返回该位置是否有指定了 [Trace Channel](https://docs.unrealengine.com/4.27/zh-CN/TestingAndOptimization/PerformanceAndProfiling/UnrealInsights/Reference/Trace/) 的 Actor
 
-Target is Player Controller
-目标是玩家控制器
+操作对象是玩家控制器
 
 ![get-hit-result-under-cursor-by-channel](./images/get-hit-result-under-cursor-by-channel.png =465x)
 
