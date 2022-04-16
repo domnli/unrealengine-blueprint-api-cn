@@ -1,6 +1,6 @@
 # Get Actor Eyes View Point
 
-Returns the point of view of the actor. Note that this doesn't mean the camera, but the 'eyes' of the actor. For example, for a Pawn, this would define the eye height location, and view rotation (which is different from the pawn rotation which has a zeroed pitch component). A camera first person view will typically use this view point. Most traces (weapon, AI) will be done from this view point.
+返回此 Actor 的视点。注意这并非指相机，而是 Actor 的“眼睛”。举例而言，对一个 Pawn 来说，此项将定义眼睛高度位置和视图旋转（其与拥有归零 Pitch 组件的 Pawn 旋转有所不同）。相机第一人称视图通常使用此视点。多数检测（武器、AI）都将从此视点开始。
 
 操作对象是 Actor
 
@@ -15,5 +15,5 @@ Returns the point of view of the actor. Note that this doesn't mean the camera, 
 ## 输出
 | 引脚 | 参数 | 类型 | 描述 |
 | -- | -- | -- | -- |
-| <IconPin color="#fac426" /> | Out Location | Vector | location of view point
-| <IconPin color="#b0c6ff" /> | Out Rotation | Rotator | view rotation of actor
+| <IconPin color="#fac426" /> | Out Location | Vector | 视点位置
+| <IconPin color="#b0c6ff" /> | Out Rotation | Rotator | Actor 的视图旋转
