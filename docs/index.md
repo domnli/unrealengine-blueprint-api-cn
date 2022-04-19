@@ -20,4 +20,4 @@
 | [Math](./math/) | 数学 |
 | [Game](./game/) | 游戏 |
 | [Collision](./collision/) | 碰撞 |
-| [Actor](./actor/) | 碰撞 |
+| [Actor](./actor/) | Actor |
