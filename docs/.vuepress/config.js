@@ -13,6 +13,7 @@ module.exports = {
         { text: '游戏', link: '/game/' },
         { text: '碰撞', link: '/collision/' },
         { text: 'Actor', link: '/actor/' },
+        { text: '渲染', link: '/rendering/' },
       ]
     }]
   },
