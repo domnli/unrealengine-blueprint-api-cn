@@ -1,20 +1,21 @@
-# Actor Has Tag
+# Find Nearest Actor
 
-判断此 Actor 的标签数组中是否包含指定的标签
+返回距离设置的原点最近的 Actor，从指定的 Actor 数组中查找。
 
-操作对象是 Actor
+操作对象是 [Gameplay Statics](https://docs.unrealengine.com/4.27/en-US/API/Runtime/Engine/Kismet/UGameplayStatics/)
 
-![ActorHasTag](./images/actor-has-tag.png =265x)
+![FindNearestActor](./images/find-nearest-actor.png =265x)
 
 ## 输入
 | 引脚 | 参数 | 类型 | 描述 |
 | -- | -- | -- | -- |
-| <IconPin color="#00a8f4" /> | Target | Actor Object Reference | Actor 对象引用
-| <IconPin color="#c77ff9" /> | Tag | String | 标签名称
+| <IconPin color="#fac426" /> | Origin | Vector | 原点
+| <IconArray color="#00a8f4" /> | Actors to Check | Array of Actor Object References | 从该数组中查找 |
 
 
 
 ## 输出
 | 引脚 | 参数 | 类型 | 描述 |
 | -- | -- | -- | -- |
-| <IconPin color="#af0e0e" /> | Return Value | Boolean | 是否包含指定的标签名称
+| <IconPin /> | Distance | Float (single-precision) | 最近的 Actor 离原点的距离
+| <IconPin color="#00a8f4" /> | Return Value | Actor Object Reference | 距离最近的 Actor
