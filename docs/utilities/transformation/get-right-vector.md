@@ -14,4 +14,4 @@ Get the right (Y) unit direction vector from this component, in world space.
 ## 输出
 | 引脚 | 参数 | 类型 | 描述 |
 | -- | -- | -- | -- |
-| <IconPin color="#fac426"/> | Return Value | Vector 向量 | 在世界坐标中获取给定组件的向右 (Y) 的单位方向向量。 |
+| <IconPin color="#fac426"/> | Return Value | Vector 向量 | 在世界坐标中获取给定组件的向右 (Y) 的单位方向向量. |
