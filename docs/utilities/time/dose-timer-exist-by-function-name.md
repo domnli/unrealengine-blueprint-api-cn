@@ -4,7 +4,7 @@
 
 操作对象是 Kismet System Library
 
-![DoesTimerExistByFunctionName](./images/does-timer-exists-by-function-name.png =265x)
+![DoesTimerExistByFunctionName](./images/does-timer-exist-by-function-name.png =265x)
 
 ## 输入
 | 引脚 | 参数 | 类型 | 描述 |

@@ -4,7 +4,7 @@
 
 操作对象是 Kismet System Library
 
-![](./images/does-timer-exist-by-handle.png =265x)
+![does-timer-exist-by-handle](./images/does-timer-exist-by-handle.png =265x)
 
 ## 输入
 | 引脚 | 参数 | 类型 | 描述 |
