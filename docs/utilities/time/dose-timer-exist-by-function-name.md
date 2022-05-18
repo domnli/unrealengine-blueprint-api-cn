@@ -1,4 +1,4 @@
-# DoesTimerExistByFunctionName
+# Does Timer Exist By Function Name
 
 如果给定的委托函数有定时器，则返回 true，否则返回 false
 

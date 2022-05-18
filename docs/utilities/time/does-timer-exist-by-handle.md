@@ -1,4 +1,4 @@
-# DoesTimerExistByHandle
+# Does Timer Exist By Handle
 
 如果给定的 Handle 存在定时器，则返回 true，否则返回 false
 

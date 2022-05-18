@@ -1,4 +1,4 @@
-# GetComponentsByTag
+# Get Components by Tag
 
 获取所有继承了给定类，并且包含给定的标签名称的组件
 

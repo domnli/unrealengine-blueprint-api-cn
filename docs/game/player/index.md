@@ -5,8 +5,8 @@
 
 | 名称 | 描述 |
 |--|--|
-|[GetHitResultUnderCursorbyChannel](./get-hit-result-under-cursor-by-channel.md)|  |
-|[GetHitResultUnderCursorforObjects](./get-hit-result-under-cursor-for-objects.md)|  |
+|[Get Hit Result Under Cursor by Channel](./get-hit-result-under-cursor-by-channel.md)|  |
+|[Get Hit Result Under Cursor for Objects](./get-hit-result-under-cursor-for-objects.md)|  |
 
 
 ### 子目录
