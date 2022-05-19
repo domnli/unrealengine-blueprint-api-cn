@@ -1,10 +1,10 @@
-# Does Timer Exist By Function Name
+# Does Timer Exist by Function Name
 
 如果给定的委托函数有定时器，则返回 true，否则返回 false
 
 操作对象是 Kismet System Library
 
-![DoesTimerExistByFunctionName](./images/does-timer-exist-by-function-name.png =265x)
+![DoesTimerExistByFunctionName](./images/does-timer-exist-by-function-name.png =365x)
 
 ## 输入
 | 引脚 | 参数 | 类型 | 描述 |
