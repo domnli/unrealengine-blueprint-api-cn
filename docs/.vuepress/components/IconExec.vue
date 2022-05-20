@@ -12,5 +12,6 @@ export default{
     background-repeat: no-repeat;
     width: 12px;
     height: 16px;
+    margin:3px;
 }
 </style>
