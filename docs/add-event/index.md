@@ -4,7 +4,8 @@
 | 名称 | 描述 |
 |--|--|
 | [Add Custom Event](./add-custom-event.md) | 添加一个可自定义名称和参数的事件。 |
-| [Event BeginPlay](./event-begin-play.md) | Actor BeginPlay 执行的事件。 |
+| [Event BeginPlay](./event-begin-play.md) | Actor BeginPlay 执行的事件。操作对象是 Actor |
+| [Event Destroyed](./event-destroyed.md) | 当 Actor 被明确销毁时触发的事件。操作对象是 Actor |
 
 ### 子目录
 | 名称 | 描述 |
