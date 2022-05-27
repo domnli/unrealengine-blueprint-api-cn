@@ -20,6 +20,6 @@
 | [Math](./math/) | 数学 |
 | [Game](./game/) | 游戏 |
 | [Collision](./collision/) | 碰撞 |
-| [Actor](./actor/) | Actor |
+| [Actor](./actor/) | Actor。[所有可以放入关卡的对象都是 Actor，比如摄像机、静态网格体、玩家起始位置](https://docs.unrealengine.com/4.27/zh-CN/ProgrammingAndScripting/ProgrammingWithCPP/UnrealArchitecture/Actors/) |
 | [Rendering](./rendering/) | 渲染 |
 | [Add Event](./add-event/) | Event nodes start execution in response to something happening. Examples would be a button press or a collision. |
