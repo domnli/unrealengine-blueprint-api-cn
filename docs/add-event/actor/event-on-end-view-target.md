@@ -1,10 +1,10 @@
-# Event OnBecomeViewTarget
+# Event OnEndViewTarget
 
-当 Actor 成为指定的玩家控制器的查看目标时触发该事件。
+当 Actor 不再作为玩家控制器的查看目标时触发该事件。
 
 操作对象是 Actor
 
-![](./images/event-on-become-view-target.png =291x163)
+![](./images/event-on-end-view-target.png =265x)
 
 ## 输入
 | 引脚 | 参数 | 类型 | 描述 |
