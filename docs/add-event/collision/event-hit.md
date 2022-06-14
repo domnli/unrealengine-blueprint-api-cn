@@ -16,11 +16,11 @@
 | -- | -- | -- | -- |
 | <IconDelegate /> | Output Delegate | Delegate | 委托，一般被受托方调用。|
 | <IconExec /> | Out | Exec | 
-| <IconPin color="#00a8f4" /> | My Comp | Primitive Component Object Reference |  |
-| <IconPin color="#00a8f4" /> | Other | Actor Object Reference |  |
-| <IconPin color="#00a8f4" /> | Other Comp | Primitive Component Object Reference |  |
-| <IconPin color="#af0e0e" /> | Self Moved | Boolean |  |
-| <IconPin color="#fac426" /> | Hit Location | Vector |  |
+| <IconPin color="#00a8f4" /> | My Comp | Primitive Component Object Reference | 当前 Actor 的 Primitive Component 引用 |
+| <IconPin color="#00a8f4" /> | Other | Actor Object Reference | 碰撞来源的 Actor 引用 |
+| <IconPin color="#00a8f4" /> | Other Comp | Primitive Component Object Reference | 碰撞来源的 Primitive Component 引用 |
+| <IconPin color="#af0e0e" /> | Self Moved | Boolean | 是否移动 |
+| <IconPin color="#fac426" /> | Hit Location | Vector | 碰撞方向 |
 | <IconPin color="#fac426" /> | Hit Normal | Vector |  |
-| <IconPin color="#fac426" /> | Normal Impulse | Vector |  |
-| <IconPin color="#0057c5" /> | Hit | Hit Result Structure (by ref) |  |
+| <IconPin color="#fac426" /> | Normal Impulse | Vector | 碰撞冲量 |
+| <IconPin color="#0057c5" /> | Hit | Hit Result Structure (by ref) | [碰撞结果结构体]() |
