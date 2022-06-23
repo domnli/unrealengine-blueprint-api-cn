@@ -1,8 +1,8 @@
 # Event AnyDamage
 
-该 Actor 收到任何伤害都会触发该事件。该事件只能在服务端触发。
+该 Actor 受到任何伤害都会触发该事件。该事件只能在服务端触发。
 
-操作对象是取得[网络授权](https://docs.unrealengine.com/4.27/en-US/BlueprintAPI/Networking_1/HasAuthority/)的 Actor
+操作对象是拥有[网络权限](https://docs.unrealengine.com/4.27/en-US/BlueprintAPI/Networking_1/HasAuthority/)的 Actor
 
 ![](./images/event-any-damage.png =235x)
 
