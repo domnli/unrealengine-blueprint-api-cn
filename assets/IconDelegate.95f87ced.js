@@ -1,0 +1,1 @@
+import{_ as o,o as t,c,n as l}from"./app.ca0ab24b.js";const r={props:["color"],data(){return{style:""}},mounted(){this.style="background-color:"+this.color+";color:"+this.color}};function s(a,_,n,p,e,d){return t(),c("div",{class:"icon_delegate",style:l(e.style)},null,4)}var u=o(r,[["render",s],["__scopeId","data-v-64a29543"],["__file","IconDelegate.vue"]]);export{u as default};

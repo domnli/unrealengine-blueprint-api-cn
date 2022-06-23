@@ -1,0 +1,1 @@
+const t={key:"v-34b4ecff",path:"/actor/tick/",title:"Tick",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:3,title:"\u64CD\u4F5C",slug:"\u64CD\u4F5C",children:[]}],git:{updatedTime:1652870758e3,contributors:[{name:"domnli",email:"dml8880596@gmail.com",commits:1}]},filePathRelative:"actor/tick/index.md"};export{t as data};

@@ -1,0 +1,1 @@
+const e={key:"v-40c88c12",path:"/add-event/collision/",title:"Actor",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:3,title:"\u64CD\u4F5C",slug:"\u64CD\u4F5C",children:[]}],git:{updatedTime:1655088955e3,contributors:[{name:"domnli",email:"dml8880596@gmail.com",commits:3}]},filePathRelative:"add-event/collision/index.md"};export{e as data};

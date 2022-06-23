@@ -1,0 +1,1 @@
+const t={key:"v-a62fb602",path:"/add-documentation-node.html",title:"Add Documentation Node",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1649777706e3,contributors:[{name:"domnli",email:"dml8880596@gmail.com",commits:1}]},filePathRelative:"add-documentation-node.md"};export{t as data};

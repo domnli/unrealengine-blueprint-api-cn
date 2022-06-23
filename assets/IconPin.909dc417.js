@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as n,n as c}from"./app.ca0ab24b.js";const r={props:["color"],data(){return{style:""}},mounted(){this.style="background-color:"+this.color}};function s(_,a,l,i,e,p){return t(),n("div",{class:"icon_variable",style:c(e.style)},null,4)}var d=o(r,[["render",s],["__scopeId","data-v-64c5326f"],["__file","IconPin.vue"]]);export{d as default};

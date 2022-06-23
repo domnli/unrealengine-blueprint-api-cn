@@ -1,0 +1,1 @@
+const e={key:"v-d00aa486",path:"/add-event/game/damage/",title:"Damage",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:3,title:"\u64CD\u4F5C",slug:"\u64CD\u4F5C",children:[]}],git:{updatedTime:1655951656e3,contributors:[{name:"domnli",email:"dml8880596@gmail.com",commits:2}]},filePathRelative:"add-event/game/damage/index.md"};export{e as data};

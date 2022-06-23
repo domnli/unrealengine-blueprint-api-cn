@@ -1,0 +1,1 @@
+const e={key:"v-6ffbeef6",path:"/collision/",title:"Collision",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:3,title:"\u64CD\u4F5C",slug:"\u64CD\u4F5C",children:[]}],git:{updatedTime:1650124001e3,contributors:[{name:"domnli",email:"dml8880596@gmail.com",commits:3}]},filePathRelative:"collision/index.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-1cf9e7df",path:"/add-return-node.html",title:"Add Return Node",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1649777706e3,contributors:[{name:"domnli",email:"dml8880596@gmail.com",commits:1}]},filePathRelative:"add-return-node.md"};export{e as data};
