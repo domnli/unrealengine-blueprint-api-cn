@@ -5,3 +5,4 @@
 | 名称 | 描述 |
 |--|--|
 | [Set Capsule Indirect Shadow Min Visibility](./set-capsule-indirect-shadow-min-visibility.md)| Set Capsule Indirect Shadow Min Visibility Target is Skinned Mesh Component |
+| [Set Cast Capsule Direct Shadow](./set-cast-capsule-direct-shadow.md)| Set Cast Capsule Direct Shadow Target is Skinned Mesh Component |
