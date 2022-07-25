@@ -1,10 +1,10 @@
-# Set Cast Capsule Direct Shadow 
+# Set Cast Capsule Indirect Shadow
 
-设置是否开启投射到胶囊体的直接阴影
+设置是否开启投射到胶囊体的间接阴影
 
 操作对象是 Skinned Mesh Component
 
-![](./images/set-cast-capsule-direct-shadow.png =365x)
+![](./images/.png =365x)
 
 ## 输入
 | 引脚 | 参数 | 类型 | 描述 |

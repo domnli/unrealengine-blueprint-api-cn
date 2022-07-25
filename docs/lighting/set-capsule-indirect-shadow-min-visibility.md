@@ -1,6 +1,6 @@
 # Set Capsule Indirect Shadow Min Visibility
 
-Set Capsule Indirect Shadow Min Visibility 设置胶囊体间接阴影的最小可见性
+设置胶囊体间接阴影的最小可见性
 
 操作对象是 Skinned Mesh Component
 
