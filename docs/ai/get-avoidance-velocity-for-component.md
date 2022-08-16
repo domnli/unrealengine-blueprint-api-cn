@@ -1,6 +1,6 @@
 # Get Avoidance Velocity for Component
 
-Calculate avoidance velocity for component (avoids collisions with the supplied component)
+计算组件的躲避速度（避免与提供的组件发生碰撞）
 
 操作对象是 Avoidance Manager
 
@@ -10,11 +10,11 @@ Calculate avoidance velocity for component (avoids collisions with the supplied 
 | 引脚 | 参数 | 类型 | 描述 |
 | -- | -- | -- | -- |
 | <IconExec /> | In | Exec |
-| <IconPin color="00a8f4" /> | Target | Avoidance Manager Object Reference | 
-| <IconPin color="00a8f4" /> | Movement Comp | Movement Component Object Reference | 
+| <IconPin color="00a8f4" /> | Target | Avoidance Manager Object Reference | 开启了躲避管理的对象引用 |
+| <IconPin color="00a8f4" /> | Movement Comp | Movement Component Object Reference | 移动组件对象引用 |
 
 ## 输出
 | 引脚 | 参数 | 类型 | 描述 |
 | -- | -- | -- | -- |
 | <IconExec /> | Out | Exec |
-| <IconPin color="#fac426" /> | Return Value | Vector | Calculate avoidance velocity for component (avoids collisions with the supplied component) |
+| <IconPin color="#fac426" /> | Return Value | Vector | 计算组件的闪避速度（避免与提供的组件发生碰撞） |
